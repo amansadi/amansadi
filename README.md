@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Md Reyazon Shuvro</h1>
+<h1 align="center">Hi 👋, I'm Kazi Ahbab Aman</h1>
 <h3 align="center">A passionate frontend & backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansadi&label=Profile%20views&color=0e75b6&style=flat" alt="amansadi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/md_reyazon" target="blank"><img src="https://img.shields.io/twitter/follow/md_reyazon?logo=twitter&style=for-the-badge" alt="md_reyazon" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 - 🔭 I’m currently working on my own project
@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/md_reyazon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_reyazon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-reyazon-shuvro-187104256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-reyazon-shuvro-187104256" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
